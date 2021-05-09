@@ -12,6 +12,7 @@ namespace GitExample
         {
             Console.WriteLine("Hello World!! Welcome ");
             Console.WriteLine("Hai");
+            Console.ReadLine();
         }
     }
 }
